@@ -44,4 +44,4 @@ Feel free to contribute to this repository. Pull requests are welcome. For major
 
 ## License
 
-
+[Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
