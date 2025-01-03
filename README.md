@@ -1,6 +1,6 @@
 # Japanese-English-Text-Processor
 
-This repository contains scripts that work with `japanese_text.txt` and `english_text.txt`, along with a GUI (`Jap_GUI.ahk`) to facilitate the process.
+This repository contains AHK scripts that work with `japanese_text.txt` and `english_text.txt`, along with a GUI (`Jap_GUI.ahk`) to genorate random questions.
 
 ## Prerequisites
 
